@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3749851594a52cd4081623114c703497
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105891
+  packageName: Soccer Players & Stadiums Pack
+  packageVersion: 1.6
+  assetPath: Assets/Soccer_Players_Stadiums/AssetBundleResources/URP/Shaders/SimpleLit_UVScrollLightMapForwardPass.hlsl
+  uploadId: 782102

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b2a56897183bb574ca1661fde0fd5fa8
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105891
+  packageName: Soccer Players & Stadiums Pack
+  packageVersion: 1.6
+  assetPath: Assets/Soccer_Players_Stadiums/AssetBundleResources/URP/Shaders/SimpleLit_MultiTextureInput.hlsl
+  uploadId: 782102
